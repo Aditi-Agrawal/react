@@ -1,0 +1,2 @@
+(this["webpackJsonpcounter-hooks"]=this["webpackJsonpcounter-hooks"]||[]).push([[0],{11:function(t,e,n){"use strict";n.r(e);var c=n(1),o=n(3),r=n.n(o),s=(n(9),n(4)),i=n(0),u=function(){var t=Object(c.useState)(0),e=Object(s.a)(t,2),n=e[0],o=e[1];return Object(i.jsxs)(i.Fragment,{children:[Object(i.jsx)("h1",{children:n}),Object(i.jsx)("button",{onClick:function(){o(n+1)},children:"Click me"})]})};r.a.render(Object(i.jsx)(u,{}),document.getElementById("root"))},9:function(t,e,n){}},[[11,1,2]]]);
+//# sourceMappingURL=main.2f9f94fb.chunk.js.map
